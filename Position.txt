@@ -1,0 +1,170 @@
+[
+{
+  "id": 1,
+  "price": 1000,
+  "nomenclature": 1,
+  "quantity": 76,
+  "number": 1
+},
+{
+  "id": 2,
+  "price": 145,
+  "nomenclature": 3,
+  "quantity": 12,
+  "number": 2
+},
+{
+  "id": 3,
+  "price": 1230,
+  "nomenclature": 2,
+  "quantity": 130,
+  "number": 3
+},
+{
+  "id": 4,
+  "price": 10200,
+  "nomenclature": 4,
+  "quantity": 50,
+  "number": 4
+},
+{
+  "id": 5,
+  "price": 23000,
+  "nomenclature": 5,
+  "quantity": 40,
+  "number": 5
+},
+{
+  "id": 6,
+  "price": 34000,
+  "nomenclature": 7,
+  "quantity": 17,
+  "number": 6
+},
+{
+  "id": 7,
+  "price": 543000,
+  "nomenclature": 2,
+  "quantity": 26,
+  "number": 7
+},
+{
+  "id": 8,
+  "price": 23000,
+  "nomenclature": 4,
+  "quantity": 86,
+  "number": 8
+},
+{
+  "id": 9,
+  "price": 100,
+  "nomenclature": 3,
+  "quantity": 36,
+  "number": 9
+},
+{
+  "id": 10,
+  "price": 10120,
+  "nomenclature": 8,
+  "quantity": 49,
+  "number": 10
+},
+{
+  "id": 11,
+  "price": 1430,
+  "nomenclature": 1,
+  "quantity": 122,
+  "number": 11
+},
+{
+  "id": 12,
+  "price": 4200,
+  "nomenclature": 6,
+  "quantity": 64,
+  "number": 12
+},
+{
+  "id": 13,
+  "price": 12000,
+  "nomenclature": 6,
+  "quantity": 10,
+  "number": 1
+},
+{
+  "id": 14,
+  "price": 1435,
+  "nomenclature": 8,
+  "quantity": 84,
+  "number": 2
+},
+{
+  "id": 15,
+  "price": 1340,
+  "nomenclature": 6,
+  "quantity": 131,
+  "number": 3
+},
+{
+  "id": 16,
+  "price": 10254,
+  "nomenclature": 3,
+  "quantity": 57,
+  "number": 4
+},
+{
+  "id": 17,
+  "price": 2500,
+  "nomenclature": 2,
+  "quantity": 40,
+  "number": 5
+},
+{
+  "id": 18,
+  "price": 5420,
+  "nomenclature": 5,
+  "quantity": 12,
+  "number": 6
+},
+{
+  "id": 19,
+  "price": 5430,
+  "nomenclature": 1,
+  "quantity": 10,
+  "number": 7
+},
+{
+  "id": 20,
+  "price": 223200,
+  "nomenclature": 2,
+  "quantity": 11,
+  "number": 8
+},
+{
+  "id": 21,
+  "price": 12342,
+  "nomenclature": 6,
+  "quantity": 14,
+  "number": 9
+},
+{
+  "id": 22,
+  "price": 120,
+  "nomenclature": 1,
+  "quantity": 71,
+  "number": 10
+},
+{
+  "id": 23,
+  "price": 1430,
+  "nomenclature": 3,
+  "quantity": 136,
+  "number": 11
+},
+{
+  "id": 24,
+  "price": 4212,
+  "nomenclature": 3,
+  "quantity": 13,
+  "number": 12
+}
+]
